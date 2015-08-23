@@ -14,8 +14,11 @@
     "express": "~4.12.4",
     "jade": "~1.9.2",
     "mongodb": "*",
-    "morgan": "~1.5.3",
-    "nodemon": "^1.4.1"
+    "morgan": "~1.5.3"   
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.8.0",
+    "nodemon": "^1.4.1"
+  }
 }
