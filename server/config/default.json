@@ -1,5 +1,5 @@
 {
-	"connectionString":"mongodb://admin:#admin@ds035583.mongolab.com:35583/mongo",
-	"users":"users_expense",
-	"expenses":"group_expense"	
+	"connectionString": "mongodb://localhost:27017/my_database_name",
+	"users": "users_expense",
+	"expenses": "group_expense"
 }
