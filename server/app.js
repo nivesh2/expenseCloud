@@ -22,7 +22,6 @@ app.set('view engine', 'jade');
 //route the request
 app.use('/api/v1/', routes);
 
-
 // catch 404 and forward to respective handler
 app.use(function(req,res,next){
 	var err= new Error('Not Found');
